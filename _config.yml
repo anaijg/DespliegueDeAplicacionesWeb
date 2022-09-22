@@ -20,11 +20,11 @@ author: Ana I. Jiménez
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Acerca de: "acercade"
+  Referencias:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
