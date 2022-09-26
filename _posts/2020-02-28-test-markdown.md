@@ -1,34 +1,34 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Primer post de muestra
+subtitle: Lo suyo es que cada post tenga un subtítulo
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Este es un post de demostración para mostrarte cómo escribir posts con markdown. Te recomiendo encarecidamente que te tomes [5 minutos para aprender a escribir en markdown](https://markdowntutorial.com/) - aprenderás cómo convertir texto normal en negrita/cursiva/encabezados/tablas/etc.
 
-**Here is some bold text**
+**Aquí un poco de texto en negrita**
 
-## Here is a secondary heading
+## Aquí un encabezado de segundo nivel
 
-Here's a useless table:
+Aquí una tabla completamente inútil:
 
-| Number | Next number | Previous number |
+| Número | Siguiente número | Número anterior |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Cinco | Seis | Cuatro |
+| Diez | Once | Nueve |
+| Siete | Ocho | Seis |
+| Dos | Tres | Uno |
 
 
-How about a yummy crepe?
+¿Te apetece una crepe deliciosa?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
+¡Y también podemos centrarla!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
