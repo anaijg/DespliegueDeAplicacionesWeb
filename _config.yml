@@ -20,7 +20,7 @@ author: Ana I. Jiménez
 ###############################################
 
 navbar-links:
-  Acerca de: "acercade"
+  Acerca de: "aboutme"
   Referencias:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
